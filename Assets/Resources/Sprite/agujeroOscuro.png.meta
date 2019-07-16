@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 933414c040be28f408115738a022d16a
+timeCreated: 1437052843
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: agujeroOscuro_0
+    21300002: agujeroOscuro_1
+    21300004: agujeroOscuro_2
+    21300006: agujeroOscuro_3
+    21300008: agujeroOscuro_4
+    21300010: agujeroOscuro_5
+    21300012: agujeroOscuro_6
+    21300014: agujeroOscuro_7
+    21300016: agujeroOscuro_8
+    21300018: agujeroOscuro_9
+    21300020: agujeroOscuro_10
+    21300022: agujeroOscuro_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: agujeroOscuro_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 126
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 121
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 119
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 122
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 121
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 23
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 22
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 21
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: agujeroOscuro_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 20
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
